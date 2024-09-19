@@ -1,0 +1,20 @@
+.birthday-container {
+    border: 2px solid #000;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #0066cc;
+}
+
+p {
+    color: #333;
+    font-size: 16px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+}
